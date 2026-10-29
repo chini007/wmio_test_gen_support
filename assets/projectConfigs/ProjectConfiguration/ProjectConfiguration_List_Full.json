@@ -1,0 +1,29 @@
+{
+  "apiVersion": "1.0",
+  "metadata": {
+    "source": "dev6610096",
+    "project": "fl4c1f06b5fdde4076931d20156d8bad0b",
+    "generatedOn": 1793267951503
+  },
+  "configurations": {
+    "packages": [],
+    "variables": [
+      {
+        "key": "PP_1",
+        "value": "PV_1",
+        "isPassword": false,
+        "isRequired": true,
+        "uid": "fl5d1156369918762c36266d",
+        "type": "projectParameter"
+      }
+    ],
+    "connections": [],
+    "certificates": [],
+    "servicesSchedule": [],
+    "virtualRuntimes": []
+  },
+  "globals": {
+    "alertRules": [],
+    "versionControlAccounts": []
+  }
+}

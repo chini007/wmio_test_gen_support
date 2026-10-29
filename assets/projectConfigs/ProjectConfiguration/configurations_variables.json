@@ -1,0 +1,10 @@
+[
+  {
+    "key": "PP_1",
+    "value": "PV_1",
+    "isPassword": false,
+    "isRequired": true,
+    "uid": "fl5d1156369918762c36266d",
+    "type": "projectParameter"
+  }
+]
