@@ -1,0 +1,9 @@
+project:
+  project-id: fl4c1f06b5fdde4076931d20156d8bad0b
+  project-name: wmio_test_gen_support
+  external-git:
+    enabled: true
+    repository: chini007/wmio_test_gen_supportProject
+    api-repository-path: chini007/Wmio_test_gen_supportProject
+    branch: dev
+    account-alias: insrsa_github
